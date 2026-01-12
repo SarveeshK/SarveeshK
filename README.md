@@ -31,9 +31,9 @@ Currently strengthening my skills through internships and real-world development
 ### Backend & Database
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 </p>
 
 ### Development Tools & IDEs
@@ -80,13 +80,11 @@ Internship experience presentation web app (mini project).
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarveeshK&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/SarveeshK?style=for-the-badge&color=blue"/>
-  <img src="https://img.shields.io/github/stars/SarveeshK?style=for-the-badge&color=blue"/>
-  <img src="https://img.shields.io/github/commit-activity/m/SarveeshK?style=for-the-badge&color=blue"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SarveeshK&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Sarveesh GitHub Stats"
+    width="420"
+  />
 </p>
 
 ---
