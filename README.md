@@ -119,16 +119,10 @@
  <h2>📉 GitHub Analytics</h2>
  
  <!-- Analytics Grid -->
- <table align="center" border="0">
-  <tr>
-    <td align="center">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=SarveeshK&show_icons=true&hide_border=true&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=A6A6A6&count_private=true" alt="Github Stats" />
-    </td>
-    <td align="center">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveeshK&layout=compact&hide_border=true&bg_color=0d1117&title_color=20C20E&text_color=A6A6A6" alt="Top Languages" />
-    </td>
-  </tr>
- </table>
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SarveeshK&show_icons=true&theme=dark" alt="Github Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveeshK&layout=compact&theme=dark" alt="Top Languages" height="180" />
+ </div>
  
  <br>
  
