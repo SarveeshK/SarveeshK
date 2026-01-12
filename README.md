@@ -36,13 +36,15 @@ Currently strengthening my skills through internships and real-world development
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
-### Development Tools
+### Development Tools & IDEs
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 </p>
+
+- IDEs used: VS Code, Cursor, Antigravity
 
 ---
 
@@ -99,8 +101,18 @@ Internship experience presentation web app (mini project).
 
 ## Contact
 
-- GitHub: https://github.com/SarveeshK 
-- LinkedIn: https://www.linkedin.com/in/sarveesh-kaarthic-ramesh-kannan-750569380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
-- Email: sarveeshkaarthic05@gmail.com 
+<p>
+  <a href="https://github.com/SarveeshK" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sarveesh-kaarthic-ramesh-kannan-750569380" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sarveeshkaarthic05@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40"/>
+  </a>
+</p>
 
 ---
