@@ -65,6 +65,16 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
  </p>
+
+ <p align="center">
+    <b>Hardware & IoT</b><br>
+    <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/MATLAB-e16737?style=flat-square&logo=mathworks&logoColor=white" />
+    <img src="https://img.shields.io/badge/Simulink-e16737?style=flat-square&logo=mathworks&logoColor=white" />
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+    <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+    <img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+ </p>
  
  <br>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -116,13 +126,7 @@
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
  <br>
  
- <h2>📉 GitHub Analytics</h2>
- 
- <!-- Analytics Grid -->
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarveeshK&show_icons=true&theme=dark" alt="Github Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveeshK&layout=compact&theme=dark" alt="Top Languages" height="180" />
- </div>
+
  
  <br>
  
