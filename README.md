@@ -1,7 +1,9 @@
 <div align="center">
 
-<img src="PASTE_YOUR_IMAGE_URL_HERE" alt="Sarveesh Banner" width="100%" style="max-width: 800px;" />
-
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&pause=1000&color=20C20E&center=true&vCenter=true&width=900&height=70&lines=Sarveesh+Kaarthic+Ramesh+Kannan" alt="Sarveesh Kaarthic Ramesh Kannan" />
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A6A6A6&center=true&vCenter=true&width=500&height=40&lines=Full+Stack+Developer+%7C+AI+Enthusiast" alt="Subtitle" />
 <br><br>
 
 <p>
@@ -50,20 +52,20 @@
 
 <br><br><br>
 
-<h3>🚀 Mini Projects</h3>
+<h3> Mini Projects</h3>
 
 <table align="center" border="0">
   <tr>
     <td align="center" width="300">
       <br>
-      <b>📄 Docky</b><br>
+      <b> Docky</b><br>
       <font size="2">Document Management</font><br>
       <img src="https://img.shields.io/badge/Flask-Backend-black?style=flat-square">
       <br><br>
     </td>
     <td align="center" width="300">
       <br>
-      <b>🌐 Grok Networking</b><br>
+      <b> Grok Networking</b><br>
       <font size="2">Professional Network App</font><br>
       <img src="https://img.shields.io/badge/React-TypeScript-blue?style=flat-square">
       <br><br>
@@ -72,14 +74,14 @@
   <tr>
     <td align="center" width="300">
       <br>
-      <b>🐛 Issue Tracker</b><br>
+      <b> Issue Tracker</b><br>
       <font size="2">MACS Internship Project</font><br>
       <img src="https://img.shields.io/badge/REST_API-System-green?style=flat-square">
       <br><br>
     </td>
     <td align="center" width="300">
       <br>
-      <b>📊 Internship Report</b><br>
+      <b> Internship Report</b><br>
       <font size="2">Experience Presentation</font><br>
       <img src="https://img.shields.io/badge/UI-Design-orange?style=flat-square">
       <br><br>
@@ -92,8 +94,12 @@
 <h3>📈 Analytics</h3>
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SarveeshK&show_icons=true&theme=transparent&hide_border=true&title_color=20C20E&text_color=999&icon_color=20C20E" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveeshK&layout=compact&theme=transparent&hide_border=true&title_color=20C20E&text_color=999" />
+  <a href="https://github.com/SarveeshK">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=SarveeshK&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=20C20E&text_color=c9d1d9&icon_color=20C20E" />
+  </a>
+  <a href="https://github.com/SarveeshK">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveeshK&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=20C20E&text_color=c9d1d9" />
+  </a>
 </p>
 
 <br>
