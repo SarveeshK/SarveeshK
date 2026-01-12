@@ -56,14 +56,14 @@
   <tr>
     <td align="center" width="300">
       <br>
-      <b>📄 Docky</b><br>
+      <b> Docky</b><br>
       <font size="2">Document Management</font><br>
       <img src="https://img.shields.io/badge/Flask-Backend-black?style=flat-square">
       <br><br>
     </td>
     <td align="center" width="300">
       <br>
-      <b>🌐 Grok Networking</b><br>
+      <b> Grok Networking</b><br>
       <font size="2">Professional Network App</font><br>
       <img src="https://img.shields.io/badge/React-TypeScript-blue?style=flat-square">
       <br><br>
@@ -72,14 +72,14 @@
   <tr>
     <td align="center" width="300">
       <br>
-      <b>🐛 Issue Tracker</b><br>
+      <b> Issue Tracker</b><br>
       <font size="2">MACS Internship Project</font><br>
       <img src="https://img.shields.io/badge/REST_API-System-green?style=flat-square">
       <br><br>
     </td>
     <td align="center" width="300">
       <br>
-      <b>📊 Internship Report</b><br>
+      <b> Internship Report</b><br>
       <font size="2">Experience Presentation</font><br>
       <img src="https://img.shields.io/badge/UI-Design-orange?style=flat-square">
       <br><br>
