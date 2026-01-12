@@ -80,12 +80,13 @@ Internship experience presentation web app (mini project).
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarveeshK&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveeshK&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SarveeshK&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SarveeshK&theme=tokyonight"/>
+  <img src="https://img.shields.io/github/followers/SarveeshK?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/stars/SarveeshK?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/commit-activity/m/SarveeshK?style=for-the-badge&color=blue"/>
 </p>
 
 ---
@@ -103,15 +104,15 @@ Internship experience presentation web app (mini project).
 
 <p>
   <a href="https://github.com/SarveeshK" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sarveesh-kaarthic-ramesh-kannan-750569380" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:sarveeshkaarthic05@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
   </a>
 </p>
 
