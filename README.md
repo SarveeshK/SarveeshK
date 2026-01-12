@@ -1,16 +1,106 @@
-## Hi there 👋
+# Sarveesh Kaarthic 
 
-<!--
-**SarveeshK/SarveeshK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer (AI-assisted) | AI Enthusiast**  
+Engineering Student | Web Application Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I am a full stack developer and AI enthusiast with hands-on experience in building end-to-end web applications using modern web technologies.  
+I focus on understanding application flow, backend logic, and clean frontend structure through practical project work.
+
+I actively explore how AI-assisted tools and workflows can improve developer productivity and application quality.
+
+Currently strengthening my skills through internships and real-world development projects.
+
+---
+
+## Tools & Technologies I Have Worked With
+
+### Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
+### Development Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+---
+
+## Mini Projects
+
+### Docky  
+Document submission and management web application (mini project).
+- User and Admin dashboards  
+- Secure file upload handling  
+- Flask-based backend architecture  
+
+### Grok Networking  
+Professional networking web application (mini project).
+- Authentication UI  
+- Profile view and edit  
+- React + TypeScript frontend  
+
+### Issue Tracker (CES System) 
+Internal issue tracking system (mini project).
+- Create, assign, and track issues  
+- Status-based workflow  
+- Role-based access (basic)  
+- Flask REST APIs  
+
+### Internship Report App  
+Internship experience presentation web app (mini project).
+- React + TypeScript  
+- Component-based structure  
+- Clean UI design  
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SarveeshK&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveeshK&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SarveeshK&theme=tokyonight"/>
+</p>
+
+---
+
+## Experience
+
+- Full Stack Development Internship (AI-assisted)  
+- MACS Internship – Web Application Development  
+- Worked on internal and production-style applications  
+- Experience in collaboration and documentation  
+
+---
+
+## Contact
+
+- GitHub: https://github.com/SarveeshK 
+- LinkedIn: https://www.linkedin.com/in/sarveesh-kaarthic-ramesh-kannan-750569380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
+- Email: sarveeshkaarthic05@gmail.com 
+
+---
